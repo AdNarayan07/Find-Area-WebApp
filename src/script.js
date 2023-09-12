@@ -56,7 +56,7 @@ function setActiveTab(tabId) {
 
     const activeInputFields = document.getElementsByClassName(`${tabId}`);
     for(let i=0; i<activeInputFields.length; i++){
-        myinputFields[i].style.display = "inline-block";
+        activeInputFields[i].style.display = "inline-block";
     }
 }
 
