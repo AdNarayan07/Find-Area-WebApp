@@ -1,0 +1,85 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: #1a1a1a;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding: 20px;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 36px;
+    color: #007BFF;
+}
+
+.tabs {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.tab-button {
+    font-size: 18px;
+    background-color: #2c2c2c;
+    color: #fff;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.tab-button.active {
+    background-color: #007BFF;
+}
+
+.input-fields {
+    margin-top: 20px;
+}
+
+
+label {
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    margin-top: 10px;
+    text-align: right;
+    margin-right: 0px;
+}
+input {
+    width: 80px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: #2c2c2c;
+    color: #fff;
+    border: 1px solid #000;
+    margin-top: 10px;
+}
+
+#calculateButton {
+    padding: 15px 30px;
+    font-size: 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 0 0 5px 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#calculateButton:hover {
+    background-color: #0056b3;
+}
+
+#result {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ccc;
+    margin: 20px;
+}

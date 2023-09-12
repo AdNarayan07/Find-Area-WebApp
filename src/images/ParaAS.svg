@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80"
+   height="80"
+   viewBox="0 0 21.166667 21.166667"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.98458px;line-height:0ex;font-family:Aparajita;-inkscape-font-specification:Aparajita;fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.191205;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="9.6235132"
+       y="7.2550168"
+       id="text1-6"><tspan
+         id="tspan1-0"
+         style="fill:none;fill-opacity:0;stroke:#ffffff;stroke-width:0.191205;stroke-dasharray:none;stroke-opacity:1"
+         x="9.6235132"
+         y="7.2550168">L</tspan><tspan
+         style="fill:none;fill-opacity:0;stroke:#ffffff;stroke-width:0.191205;stroke-dasharray:none;stroke-opacity:1"
+         x="9.6235132"
+         y="7.2550168"
+         id="tspan2-8" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.2996px;line-height:0ex;font-family:Aparajita;-inkscape-font-specification:Aparajita;fill:#00006c;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.168982;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="3.7056069"
+       y="14.82054"
+       id="text3-8"><tspan
+         id="tspan3-1"
+         style="stroke:#ffffff;stroke-width:0.168982;stroke-dasharray:none;stroke-opacity:1"
+         x="3.7056069"
+         y="14.82054">B</tspan></text>
+    <path
+       id="path9-0"
+       style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.616727;stroke-linecap:square;stroke-miterlimit:7.8;stroke-dasharray:none;paint-order:stroke fill markers"
+       d="M 19.872767,7.8560058 16.975942,17.297908 1.2974048,17.267453 4.4483358,7.8548152 Z" />
+    <path
+       style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.582083;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path11"
+       d="M 19.1344,9.6401951 A 1.3908052,1.3080193 0 0 1 17.787642,9.2142991 1.3908052,1.3080193 0 0 1 17.541403,7.8982369" />
+    <ellipse
+       style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.292185;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path12"
+       cx="16.242315"
+       cy="10.685138"
+       rx="0.71831971"
+       ry="1.3190962" />
+    <path
+       style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.292186;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 15.550116,10.724318 1.410518,0.02612"
+       id="path14" />
+  </g>
+</svg>

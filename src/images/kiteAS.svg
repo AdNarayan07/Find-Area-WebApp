@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80"
+   height="80"
+   viewBox="0 0 21.166667 21.166667"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <ellipse
+       style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.258657;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path12-7"
+       cx="14.193076"
+       cy="9.3710604"
+       rx="0.63589346"
+       ry="1.1677316" />
+    <path
+       style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.258658;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 13.580296,9.405744 1.248662,0.023123"
+       id="path14-8" />
+    <path
+       id="rect14-6"
+       style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.582083;stroke-linecap:square;stroke-miterlimit:7.8;paint-order:stroke fill markers"
+       d="M 10.739265,2.1977704 17.59131,9.1504627 10.739475,19.177509 3.7865728,9.0498166 Z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0ex;font-family:Aparajita;-inkscape-font-specification:Aparajita;fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.079375;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="11.930779"
+       y="-7.9678574"
+       id="text18"
+       transform="rotate(48.356809)"><tspan
+         id="tspan18"
+         style="stroke-width:0.079375"
+         x="11.930779"
+         y="-7.9678574">S1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0ex;font-family:Aparajita;-inkscape-font-specification:Aparajita;fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.079375;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="-5.9740005"
+       y="22.559912"
+       id="text19"
+       transform="rotate(-56.503543)"><tspan
+         id="tspan19"
+         style="stroke-width:0.079375"
+         x="-5.9740005"
+         y="22.559912">S2</tspan></text>
+    <path
+       style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path19"
+       d="M 16.537504,10.767828 A 2.0530937,2.0530937 0 0 1 15.702496,9.3185127 2.0530937,2.0530937 0 0 1 16.222947,7.728895 l 1.521731,1.3782331 z" />
+  </g>
+</svg>

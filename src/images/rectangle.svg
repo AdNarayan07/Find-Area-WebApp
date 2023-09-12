@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80"
+   height="80"
+   viewBox="0 0 21.166667 21.166667"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.779992;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1"
+       width="19.156406"
+       height="9.5182171"
+       x="1.1289153"
+       y="8.0313301" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.98458px;line-height:0ex;font-family:Aparajita;-inkscape-font-specification:Aparajita;fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.191205;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="9.1363163"
+       y="6.8511896"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:none;fill-opacity:0;stroke:#ffffff;stroke-width:0.191205;stroke-dasharray:none;stroke-opacity:1"
+         x="9.1363163"
+         y="6.8511896">L</tspan><tspan
+         sodipodi:role="line"
+         style="fill:none;fill-opacity:0;stroke:#ffffff;stroke-width:0.191205;stroke-dasharray:none;stroke-opacity:1"
+         x="9.1363163"
+         y="6.8511896"
+         id="tspan2" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.2996px;line-height:0ex;font-family:Aparajita;-inkscape-font-specification:Aparajita;fill:#00006c;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.168982;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="2.0413594"
+       y="14.785404"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke:#ffffff;stroke-width:0.168982;stroke-dasharray:none;stroke-opacity:1"
+         x="2.0413594"
+         y="14.785404">B</tspan></text>
+  </g>
+</svg>

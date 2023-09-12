@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80"
+   height="80"
+   viewBox="0 0 21.166667 21.166667"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.03352px;line-height:0ex;font-family:Aparajita;-inkscape-font-specification:Aparajita;fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0827815;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="-14.678967"
+       y="9.382308"
+       id="text6-8-4"
+       transform="rotate(-90)"><tspan
+         id="tspan6-4-4"
+         style="stroke-width:0.0827815;stroke-dasharray:none"
+         x="-14.678967"
+         y="9.382308">Distance</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0ex;font-family:Aparajita;-inkscape-font-specification:Aparajita;fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.079375;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="9.8198233"
+       y="4.1607833"
+       id="text18-3"
+       transform="rotate(1.4794335)"><tspan
+         id="tspan18-0"
+         style="stroke-width:0.079375"
+         x="9.8198233"
+         y="4.1607833">S1</tspan></text>
+    <path
+       id="rect19"
+       style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:7.8;paint-order:stroke fill markers"
+       d="M 6.1579527,5.1016111 H 15.630002 L 19.863335,15.631993 H 1.9246194 Z" />
+    <path
+       style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 7.0714586,5.2498044 V 15.40039"
+       id="path20" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0ex;font-family:Aparajita;-inkscape-font-specification:Aparajita;fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.079375;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="10.586064"
+       y="18.495485"
+       id="text18-7"
+       transform="rotate(0.29978775)"><tspan
+         id="tspan18-00"
+         style="stroke-width:0.079375"
+         x="10.586064"
+         y="18.495485">S1</tspan></text>
+  </g>
+</svg>

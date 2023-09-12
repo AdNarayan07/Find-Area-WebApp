@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80"
+   height="80"
+   viewBox="0 0 21.166667 21.166667"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <path
+       style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.779992;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path3"
+       d="m 18.421615,9.921875 a 7.9375,7.9375 0 0 1 -7.937466,7.9375 A 7.9375,7.9375 0 0 1 2.5466146,9.9219441 7.9375,7.9375 0 0 1 10.484011,1.984375 7.9375,7.9375 0 0 1 18.421615,9.9217368 l -7.9375,1.382e-4 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.69198px;line-height:0ex;font-family:Aparajita;-inkscape-font-specification:Aparajita;fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.193675;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="11.77569"
+       y="9.037549"
+       id="text4"><tspan
+         id="tspan4"
+         style="stroke-width:0.193675;stroke-dasharray:none"
+         x="11.77569"
+         y="9.037549">R</tspan></text>
+  </g>
+</svg>
